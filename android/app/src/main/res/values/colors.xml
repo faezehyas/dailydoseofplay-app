@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The website's accent and accent-ink colours (public/engine/theme.css). -->
+    <color name="splash">#FF6B4A</color>
+    <color name="splash_ink">#1A0E0A</color>
+    <color name="icon_background">#FF6B4A</color>
+</resources>
