@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The logo's four dots, 36 dp with a 26 dp gap, as on the iOS launch screen. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="98dp"
+    android:height="98dp"
+    android:viewportWidth="98"
+    android:viewportHeight="98">
+    <path android:fillColor="@color/splash_ink" android:pathData="M0,18a18,18 0 1,0 36,0a18,18 0 1,0 -36,0z M62,80a18,18 0 1,0 36,0a18,18 0 1,0 -36,0z" />
+    <path android:fillColor="@color/splash_ink" android:fillAlpha="0.55" android:pathData="M62,18a18,18 0 1,0 36,0a18,18 0 1,0 -36,0z M0,80a18,18 0 1,0 36,0a18,18 0 1,0 -36,0z" />
+</vector>
